@@ -78,8 +78,7 @@
             "user_viewable": true,
             "user_editable": true,
             "rules": [
-                "between:1024,65535",
-                "integer"
+                "numeric"
             ]
         },
         {
